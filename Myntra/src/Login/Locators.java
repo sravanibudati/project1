@@ -36,6 +36,19 @@ class Locators {
 		
 		email_id.sendKeys("sravanibudati@gmail.com");		
 	}
+	
+	public void locatorsTypes() {
+		/*
+		Locators in Selenium
+		1. By ID
+		2. By name
+		3. By Class Name
+		4. Link Text
+		5. Partial Link Text
+		6. XPath
+		
+		*/
+	}
 }
 		
 class Men {

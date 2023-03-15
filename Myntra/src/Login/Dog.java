@@ -8,6 +8,10 @@ public class Dog {
 		LoginTwo log = new LoginTwo();
 		System.out.println("Checking for git");
 	}
+	
+	public void printSomething() {
+		System.out.println("Learning Git");
+	}
 
 }
 
